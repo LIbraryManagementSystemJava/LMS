@@ -1,0 +1,12 @@
+TODO list
+1.	Creating model of application
+2.	Make features (pages)
+3.	Creating login page
+4.	Main window
+5.	Operation page for users after registration
+6.	Operation page for books 
+7.	Page for relation book with user
+8.	Special book list page
+9.	User list page
+10.	Make searching operation
+11.	Create database for books
